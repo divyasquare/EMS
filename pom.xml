@@ -14,7 +14,7 @@
 	<name>EmployeeManagementSystem</name>
 	<description>employee managemt</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -68,6 +68,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>spring-boot-aws</finalName>
 	</build>
 
 </project>
